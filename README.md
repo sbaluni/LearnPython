@@ -1,2 +1,2 @@
 # LearnPython
-Repository for my python practice programs
+Repository for my python programs
